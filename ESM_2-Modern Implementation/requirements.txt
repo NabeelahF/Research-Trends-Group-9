@@ -1,0 +1,12 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+tqdm
+biopython
+matplotlib
+seaborn
+fair-esm
+biotite
+omegaconf
